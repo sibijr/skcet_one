@@ -1,0 +1,47 @@
+#login{
+position:relative;
+top:10%;
+}
+.legend{
+font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+header{
+    background: #009688;
+}
+#login-form{
+    padding:10% 20% 10% 20%;
+}
+.navbar-text{
+    width: 100%;
+    text-align: center;
+}
+.control-label{
+    text-align:  left !important;
+    padding-top: 10px !important;
+}
+#btn-pwd{
+    padding-left: 0;}
+#ch-pwd{
+    display: none;
+}
+#menu{
+    margin-bottom: 0;
+}
+.nav-tabs{
+background: transparent;
+}
+.nav-tabs li a,.nav-tabs li a:hover,.nav-tabs li a:active,.navbar-nav li a {
+    color: black !important;
+}
+.nav-tabs li{
+    border-right: 1px solid gray;
+}
+#pro-pic{
+    margin-top: 4%;
+padding: 2% 2% 2% 2%;}
+#profile{
+    margin-top: 1%;
+}

@@ -1,0 +1,37 @@
+.margin-top{
+    margin-top:50px;
+}
+label{
+    margin-top: 5px;
+}
+legend{
+    text-transform: uppercase;
+    font-size: 24px;
+}
+.navbar-text{
+    width:100%;
+    display: block;
+    text-align: center;
+}
+header,footer{
+    background: #2196F3;
+    color:#212121 !important;
+}
+.navbar{
+ background: #2196F3 !important;   
+}
+.btn-primary{
+    background: #FF5252 !important;
+    color:white !important;
+}
+.navbar{
+    color:white !important;
+}
+.nav-pills li a{
+    background: #FF5252 !important;
+    border-radius: 0;
+}
+.nav-pills li a:hover{
+    background: #FF5252 !important;
+    border-radius: 0;
+}
